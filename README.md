@@ -4,7 +4,8 @@ Art Book Project with using Core Data in Swift
 
 Hello everyone, I am currently learning swift and I made this app with using Core Data.
 You are choosing an art photo end entering it's informations after pressing on save button the app saves your entry and send you to menu. 
-On the menu you can see all entries and the one which you saved just now. If you tap on the any art name you will go details. In here you can edit that arts informations.
+On the menu you can see all entries and the one which you saved just now. If you want to delete one of them just slide to left side and press delete button and if you tap on the any art name you will go details. In here you can edit that arts informations.
+
 I hope you enjoy that :)
 
 Here is some screenshots on App.
